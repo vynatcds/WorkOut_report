@@ -2,15 +2,15 @@ import React,{ Component } from 'react';
 
 
 
-class Login extends Component {
+class Error extends Component {
 	render() {
 			return(
 			
 			<div>
-				Login
+				No page found!!
 			</div>
 		);
 	}
 }
 
-export default Login;
+export default Error;
